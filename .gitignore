@@ -1,0 +1,13 @@
+# macOS system files
+.DS_Store
+
+# Python cache and environments
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Local credentials and logs
+.env
+*.log
